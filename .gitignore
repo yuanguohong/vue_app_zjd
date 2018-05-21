@@ -1,0 +1,6 @@
+.idea
+.svn
+.env
+node_modules
+build
+
